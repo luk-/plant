@@ -1,0 +1,23 @@
+{
+  "name": "plant",
+  "version": "0.1.0",
+  "description": "simple and fast multi-paradigm streaming templating",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/st-luke/plant.git"
+  },
+  "keywords": [
+    "template",
+    "templating",
+    "streaming"
+  ],
+  "author": "Luke Arduini <luke.arduini@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "~0.4.0"
+  }
+}
