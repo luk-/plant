@@ -16,6 +16,7 @@
     "streaming"
   ],
   "author": "Luke Arduini <luke.arduini@gmail.com>",
+  "contributors": ["Paolo Fragomeni <paolo@async.ly> (https://github.com/hij1nx)"],
   "license": "MIT",
   "devDependencies": {
     "tap": "~0.4.0"

@@ -5,7 +5,7 @@ var test = require('tap').test
 var output = fs.readFileSync(__dirname + '/output.html' ,'utf8')
 
 var matrix = {
-  title: 'great plates example',
+  title: 'great plant example',
   header: 'pretty cool header',
   paragraph: 'pretty rad paragraph imo'
 }
